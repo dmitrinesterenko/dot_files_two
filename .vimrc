@@ -1,0 +1,1 @@
+/home/dmitri/.vimrc
