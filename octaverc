@@ -1,0 +1,10 @@
+# http://wiki.octave.org/Tips_and_tricks
+
+history_file = "~/.octave-history";
+addpath("./lib");
+addpath("./test");
+PS1 = "\s\#> ";
+
+function man (name)
+  help (char (name))
+endfunction
