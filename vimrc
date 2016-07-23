@@ -1,5 +1,6 @@
 map - dd p
-map _ dd kk p set tw=80
+map _ dd kk p
+set tw=80
 set tabstop=2
 set number
 set expandtab
